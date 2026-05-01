@@ -19,6 +19,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 | Problem Number |                 Problem                       | Difficulty |
 | ---------------| --------------------------------------------- | ---------- |
 |     1757.      | Recyclable and Low Fat Products               | Easy       |
+|     1633.      | Percentage of Users Attended a Contest        | Easy       |
+
 
 
 
