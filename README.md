@@ -21,6 +21,10 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1757.      | Recyclable and Low Fat Products               | Easy       |
 |     1633.      | Percentage of Users Attended a Contest        | Easy       |
 |     181.       | Employees Earning More Than Their Managers    | Easy       |
+|     182.       | Duplicate Emails                              | Easy       |
+|     183.       | Customers Who Never Order                     | Easy       |
+
+
 
 
 
