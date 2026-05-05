@@ -23,6 +23,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     181.       | Employees Earning More Than Their Managers    | Easy       |
 |     182.       | Duplicate Emails                              | Easy       |
 |     183.       | Customers Who Never Order                     | Easy       |
+|     1251.      | Average Selling Price                         | Easy       |
+
 
 
 
