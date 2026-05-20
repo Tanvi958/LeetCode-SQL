@@ -27,6 +27,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1141.      | User Activity for the Past 30 Days I          | Easy       |
 |     596.       | Classes More Than 5 Students                  | Easy       |
 |     1729.      | Find Followers Count                          | Easy       |
+|     570 .      | Managers with at Least 5 Direct Reports       | Medium     |
+
 
 
 
