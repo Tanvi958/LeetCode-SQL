@@ -31,6 +31,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1211.      | Queries Quality and Percentage                | Easy       |
 |     619.       | Biggest Single Number                         | Easy       |
 |     178.       | Rank Scores                                   | Medium     |
+|     176.       | Second Highest Salary                         | Medium     |
+
 
 
 
