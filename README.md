@@ -32,6 +32,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     619.       | Biggest Single Number                         | Easy       |
 |     178.       | Rank Scores                                   | Medium     |
 |     176.       | Second Highest Salary                         | Medium     |
+|     177.       | Nth Highest Salary                            | Medium     |
+
 
 
 
