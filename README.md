@@ -34,6 +34,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     176.       | Second Highest Salary                         | Medium     |
 |     177.       | Nth Highest Salary                            | Medium     |
 |     180.       | Consecutive Numbers                           | Medium     |
+|     184.       | Department Highest Salary                     | Medium     |
+
 
 
 
