@@ -38,6 +38,7 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1934.      | Confirmation Rate                             | Medium     |
 |     1070.      | Product Sales Analysis III                    | Medium     |
 |     586.       | Customer Placing the Largest Number of Orders | Easy       |
+|     1193.      |  Monthly Transactions I                       | Medium     |
 
 
 
