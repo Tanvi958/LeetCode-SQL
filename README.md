@@ -40,6 +40,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     586.       | Customer Placing the Largest Number of Orders | Easy       |
 |     1193.      | Monthly Transactions I                        | Medium     |
 |     1174.      | Immediate Food Delivery II                    | Medium     |
+|     262.       | Trips and Users                               | Hard       |
+
 
 
 
