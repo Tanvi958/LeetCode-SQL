@@ -42,6 +42,7 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1174.      | Immediate Food Delivery II                    | Medium     |
 |     262.       | Trips and Users                               | Hard       |
 |     196.       | Delete duplicate emails                       | Easy       |
+|     511.       | Game Play Analysis I                          | Easy       |
 
 
 
