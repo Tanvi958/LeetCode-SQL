@@ -44,6 +44,8 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     196.       | Delete duplicate emails                       | Easy       |
 |     511.       | Game Play Analysis I                          | Easy       |
 |     1045.      | Customers Who Bought All Products             | Medium     |
+|     550.       | Game Play Analysis IV                         | Medium     |
+
 
 
 
