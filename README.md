@@ -46,6 +46,7 @@ I am using this repo to practice database queries, improve problem-solving skill
 |     1045.      | Customers Who Bought All Products             | Medium     |
 |     550.       | Game Play Analysis IV                         | Medium     |
 |     1731.      |The Number of Emp Which Report to Each Emp     | Easy       |
+|     1393.      |The Number of Emp Which Report to Each Emp     | Easy       |
 
 
 
